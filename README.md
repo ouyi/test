@@ -1,1 +1,1 @@
-# Github test repo
+# GitHub test repo
